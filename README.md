@@ -1,16 +1,15 @@
-### Hi there 👋
+__### Hi there 👋 Elisha here!__
 
-<!--
-**elisha2kyakpo1/elisha2kyakpo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__My Software Learning Goals!__
+> Try try until I win! <br>Paying attention to 				details is my middle name.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on mastering Tailwindcss.
+- 🌱 I’m currently learning ruby/ruby on rails.
+- 👯 I’m looking to collaborate on small and big projects
+- 💬 Ask me about SQl,Sass,CSS/HTML
+- 📫 How to reach me: [LindedIn](https://www.linkedin.com/in/elisha-kyakopo-009aa3197/)
+
+[![Elisha github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
