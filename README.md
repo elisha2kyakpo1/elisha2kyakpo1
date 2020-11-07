@@ -1,4 +1,4 @@
-###### Hi there 👋 Elisha here!
+# __Hi there 👋 Elisha here!__
 
 ### __My Software Learning Goals!__
 > *Try try until I win! <br>Paying attention to 				details is my middle name.*
