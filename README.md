@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning React.JS.
 - 👯 I’m looking to collaborate on small and big projects
 - 💬 Ask me about SQL,Sass,CSS/HTML/Ruby/Ruby on Rails/JavaScript/Three.js
-- 📫 How to reach me: [LindedIn](https://www.linkedin.com/in/elisha-kyakopo/)
-- 📫 How to reach me: [Twitter](https://twitter.com/Elisha1k)
+- 📫 How to reach me: [LindedIn](https://www.linkedin.com/in/elisha-kyakopo/) [Twitter](https://twitter.com/Elisha1k)
 
 ![Elisha github stats](https://github-readme-stats.vercel.app/api?username=elisha2kyakpo1&show_icons=true&theme=radical)
