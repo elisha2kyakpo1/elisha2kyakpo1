@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on mastering JavaScript.
-- 🌱 I’m currently learning React.JS.
+- 🌱 I’m currently mastering React.JS.
 - 👯 I’m looking to collaborate on small and big projects
 - 💬 Ask me about SQL,Sass,CSS/HTML/Ruby/Ruby on Rails/JavaScript/Three.js/React/React-Redux
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elisha-kyakopo/) or [Twitter](https://twitter.com/Elisha1k)
